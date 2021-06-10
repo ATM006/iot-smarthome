@@ -11,7 +11,7 @@ command-not-found==0.3
 config==0.3.9
 cryptography==1.2.3
 defer==1.0.6
-Django==1.11.28
+Django==2.2.24
 dominate==2.3.1
 feedparser==5.1.3
 Flask==0.12.2
